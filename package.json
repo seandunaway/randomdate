@@ -1,0 +1,6 @@
+{
+    "name": "@seandunaway/randomdate",
+    "version": "1.0.0",
+    "bin": "./randomdate.mjs",
+    "repository": "github:seandunaway/randomdate"
+}
